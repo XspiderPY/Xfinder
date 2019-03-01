@@ -1,8 +1,6 @@
+admin
 admin.php
 admin.html
-index.php
-login.php
-login.html
 administrator
 admin
 adminpanel
